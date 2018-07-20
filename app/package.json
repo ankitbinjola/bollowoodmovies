@@ -1,0 +1,20 @@
+{
+  "name": "bollywoodfiles",
+  "version": "1.0.0",
+  "description": "bollywood application",
+  "main": "index.js",
+  "scripts": {
+    "test": "Bollywood Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:ankitbinjola/bollowoodmovies"
+  },
+  "keywords": [
+    "bollywood",
+    "movies",
+    "database"
+  ],
+  "author": "ankitbinjola",
+  "license": "ISC"
+}
