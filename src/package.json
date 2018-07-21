@@ -16,5 +16,8 @@
     "database"
   ],
   "author": "ankitbinjola",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "grunt-sass": "^3.0.1"
+  }
 }
